@@ -1,2 +1,1 @@
-# storybooks
-storybooks
+A storytelling application wrote in NodeJs
